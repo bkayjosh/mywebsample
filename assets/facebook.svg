@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458332 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="facebook.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-436.7982"
+     inkscape:cy="-267.17983"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3840"
+     inkscape:window-height="2080"
+     inkscape:window-x="-11"
+     inkscape:window-y="607"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54164)">
+    <switch
+       id="switch865"
+       transform="matrix(0.02449846,0,0,0.02449846,-1.7333333e-6,270.54164)">
+      <foreignObject
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+        <i:pgfRef
+           xlink:href="#adobe_illustrator_pgf" />
+      </foreignObject>
+      <g
+         id="g863"
+         i:extraneous="self">
+        <g
+           id="g861">
+          <circle
+             id="circle855"
+             r="540"
+             cy="540"
+             cx="540"
+             class="st3"
+             style="fill:#3c5c9c" />
+          <g
+             id="g859">
+            <path
+               id="path857"
+               d="m 724.1,303.1 h -66.8 c -52.3,0 -62.5,24.9 -62.5,61.4 V 445 H 719.6 V 571.1 H 594.9 V 894.6 H 464.7 V 571.1 H 355.9 V 445 h 108.9 v -93 c 0,-107.9 65.9,-166.6 162.2,-166.6 l 97.3,0.2 z"
+               class="st2"
+               inkscape:connector-curvature="0"
+               style="fill:#fcfcfc" />
+          </g>
+        </g>
+      </g>
+    </switch>
+  </g>
+  <style
+     id="style815"
+     type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#00AEEF;}
+	.st2{fill:#FCFCFC;}
+	.st3{fill:#3C5C9C;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#AB2923;}
+	.st6{fill:#ED1C24;}
+</style>
+  <style
+     id="style834"
+     type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#00AEEF;}
+	.st2{fill:#FCFCFC;}
+	.st3{fill:#3C5C9C;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#AB2923;}
+	.st6{fill:#ED1C24;}
+</style>
+  <style
+     id="style853"
+     type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#00AEEF;}
+	.st2{fill:#FCFCFC;}
+	.st3{fill:#3C5C9C;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#AB2923;}
+	.st6{fill:#ED1C24;}
+</style>
+</svg>
